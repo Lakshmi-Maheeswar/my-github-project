@@ -7,4 +7,4 @@ master conflict
 =======
 feature conflict
 >>>>>>> feature-A
-revert command
+to practice reset --soft command

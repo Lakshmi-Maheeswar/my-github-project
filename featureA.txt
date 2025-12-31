@@ -1,1 +1,2 @@
 first line in this file
+to practice reset --soft command
