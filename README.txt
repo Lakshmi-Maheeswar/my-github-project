@@ -8,3 +8,4 @@ master conflict
 feature conflict
 >>>>>>> feature-A
 to practice reset --soft command
+Line is added by user 1
