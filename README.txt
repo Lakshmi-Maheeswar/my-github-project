@@ -7,3 +7,4 @@ master conflict
 =======
 feature conflict
 >>>>>>> feature-A
+revert command
